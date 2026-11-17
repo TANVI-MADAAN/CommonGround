@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1794945579150",
+    "title": "Final project submission tommorow",
+    "category": "Education",
+    "publishDate": "2026-11-17",
+    "expiryDate": "2026-11-18",
+    "status": "published",
+    "versions": [
+      {
+        "language": "Other",
+        "languageCode": "other",
+        "title": "വൈവയ്ക്കായി പഠിക്കൂ, എന്നിട്ട് ആ സാധനം എവിടെ നിന്നാണ് വന്നതെന്ന് കണ്ടുപിടിക്കൂ!",
+        "content": "നമുക്ക് കഠിനാധ്വാനം ചെയ്യാം, ഈ പദ്ധതിയിൽ നമുക്ക് കഴിയുന്നതെല്ലാം ചെയ്യാം, എന്നിട്ട് ഇത് പൂർത്തിയാക്കാം",
+        "translationStatus": "In Progress"
+      },
+      {
+        "language": "हिन्दी",
+        "languageCode": "hi",
+        "title": "वाइवा के लिए पढ़ लो और वो मनहूस ओरिजिन ढूँढ़ लाओ।",
+        "content": "आइए हम कड़ी मेहनत करें, इस प्रोजेक्ट के लिए जो कुछ भी कर सकते हैं वह करें और इसे पूरा करें।",
+        "translationStatus": "In Progress"
+      }
+    ],
+    "createdBy": "Community Admin",
+    "createdAt": "2026-11-17T19:59:39.150Z"
+  },
+  {
+    "id": "sample-1",
+    "title": "Community Cleanliness Drive",
+    "category": "Community",
+    "publishDate": "2026-11-15",
+    "expiryDate": "2026-12-15",
+    "status": "published",
+    "createdBy": "Community Admin",
+    "versions": [
+      {
+        "language": "English",
+        "languageCode": "en",
+        "title": "Community Cleanliness Drive",
+        "content": "Join us this Saturday for a neighbourhood cleanliness drive. Volunteers should gather near the community hall at 9:00 AM.",
+        "translationStatus": "Completed"
+      },
+      {
+        "language": "हिन्दी",
+        "languageCode": "hi",
+        "title": "सामुदायिक स्वच्छता अभियान",
+        "content": "इस शनिवार पड़ोस की स्वच्छता अभियान में शामिल हों। स्वयंसेवक सुबह 9 बजे सामुदायिक भवन के पास एकत्रित हों।",
+        "translationStatus": "Completed"
+      },
+      {
+        "language": "ਪੰਜਾਬੀ",
+        "languageCode": "pa",
+        "title": "ਭਾਈਚਾਰਕ ਸਫ਼ਾਈ ਮੁਹਿੰਮ",
+        "content": "ਇਸ ਸ਼ਨੀਵਾਰ ਇਲਾਕੇ ਦੀ ਸਫ਼ਾਈ ਮੁਹਿੰਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ। ਵਲੰਟੀਅਰ ਸਵੇਰੇ 9 ਵਜੇ ਕਮਿਊਨਿਟੀ ਹਾਲ ਨੇੜੇ ਇਕੱਠੇ ਹੋਣ।",
+        "translationStatus": "In Progress"
+      }
+    ]
+  },
+  {
+    "id": "sample-2",
+    "title": "Water Supply Maintenance",
+    "category": "Utilities",
+    "publishDate": "2026-11-17",
+    "expiryDate": "2026-11-25",
+    "status": "published",
+    "createdBy": "Community Admin",
+    "versions": [
+      {
+        "language": "English",
+        "languageCode": "en",
+        "title": "Water Supply Maintenance",
+        "content": "Water supply may be interrupted on Wednesday from 10:00 AM to 1:00 PM due to scheduled maintenance. Please store water in advance.",
+        "translationStatus": "Completed"
+      },
+      {
+        "language": "हिन्दी",
+        "languageCode": "hi",
+        "title": "जल आपूर्ति रखरखाव",
+        "content": "निर्धारित रखरखाव के कारण बुधवार सुबह 10 बजे से दोपहर 1 बजे तक पानी की आपूर्ति बाधित हो सकती है। कृपया पहले से पानी जमा कर लें।",
+        "translationStatus": "Completed"
+      }
+    ]
+  },
+  {
+    "id": "sample-3",
+    "title": "Library Timings Updated",
+    "category": "Education",
+    "publishDate": "2026-11-16",
+    "expiryDate": "",
+    "status": "published",
+    "createdBy": "Community Admin",
+    "versions": [
+      {
+        "language": "English",
+        "languageCode": "en",
+        "title": "Library Timings Updated",
+        "content": "The community library will now remain open from 8:00 AM to 8:00 PM on weekdays.",
+        "translationStatus": "Completed"
+      },
+      {
+        "language": "हिन्दी",
+        "languageCode": "hi",
+        "title": "पुस्तकालय का समय बदला गया",
+        "content": "सामुदायिक पुस्तकालय अब सप्ताह के दिनों में सुबह 8 बजे से रात 8 बजे तक खुला रहेगा।",
+        "translationStatus": "Pending"
+      }
+    ]
+  }
+]
